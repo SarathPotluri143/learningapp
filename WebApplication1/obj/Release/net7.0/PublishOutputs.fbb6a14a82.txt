@@ -1,0 +1,7 @@
+C:\Sarath\Test\WebApplication1\bin\Publish\WebApplication1.exe
+C:\Sarath\Test\WebApplication1\bin\Publish\appsettings.Development.json
+C:\Sarath\Test\WebApplication1\bin\Publish\appsettings.json
+C:\Sarath\Test\WebApplication1\bin\Publish\WebApplication1.dll
+C:\Sarath\Test\WebApplication1\bin\Publish\WebApplication1.deps.json
+C:\Sarath\Test\WebApplication1\bin\Publish\WebApplication1.runtimeconfig.json
+C:\Sarath\Test\WebApplication1\bin\Publish\WebApplication1.pdb
